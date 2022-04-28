@@ -13,7 +13,7 @@ https://github.com/VSCodium/vscodium/blob/master/DOCS.md#howto-vscode-marketplac
 6. Prettier - Code formatter by Prettier
 7. Tailwind CSS IntelliSense by Tailwind Labs
 
-## VSCode Windows Specific
+## VSCode on Windows Specific
 
 Add these to settings.json :
 ```json
