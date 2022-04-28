@@ -13,4 +13,12 @@ https://github.com/VSCodium/vscodium/blob/master/DOCS.md#howto-vscode-marketplac
 6. Prettier - Code formatter by Prettier
 7. Tailwind CSS IntelliSense by Tailwind Labs
 
+## VSCode Specific
+
+Add these to settings.json :
+```
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "telemetry.telemetryLevel": "off",
+```
+
 ##### *Note : Things will evolve as time move*
