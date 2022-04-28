@@ -1,0 +1,28 @@
+{
+  "editor.wordWrap": "on",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "One Dark Pro Flat",
+  "workbench.panel.defaultLocation": "right",
+  "editor.fontSize": 13,
+  "editor.scrollbar.vertical": "hidden",
+  "editor.minimap.maxColumn": 50,
+  "editor.cursorBlinking": "expand",
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": true,
+  "editor.tabSize": 2,
+  "window.titleBarStyle": "custom",
+  "window.menuBarVisibility": "compact",
+  "terminal.integrated.cursorBlinking": true,
+  "github.gitAuthentication": false,
+  "diffEditor.renderSideBySide": false,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "prettier.jsxSingleQuote": true,
+  "prettier.singleQuote": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "tailwindCSS.colorDecorators": false
+}
