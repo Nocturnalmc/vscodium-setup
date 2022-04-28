@@ -12,3 +12,5 @@ https://github.com/VSCodium/vscodium/blob/master/DOCS.md#howto-vscode-marketplac
 5. One Dark Pro by binaryify
 6. Prettier - Code formatter by Prettier
 7. Tailwind CSS IntelliSense by Tailwind Labs
+
+##### *Note : Things will evolve as time move*
