@@ -17,8 +17,8 @@ https://github.com/VSCodium/vscodium/blob/master/DOCS.md#howto-vscode-marketplac
 
 Add these to settings.json :
 ```json
-  "terminal.integrated.defaultProfile.windows": "Git Bash",
-  "telemetry.telemetryLevel": "off"
+"terminal.integrated.defaultProfile.windows": "Git Bash",
+"telemetry.telemetryLevel": "off"
 ```
 
 ##### *Note : Things will evolve as time move*
