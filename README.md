@@ -20,5 +20,3 @@ Add these to settings.json :
 "terminal.integrated.defaultProfile.windows": "Git Bash",
 "telemetry.telemetryLevel": "off"
 ```
-
-##### *Note : Things will evolve as time move*
