@@ -7,7 +7,6 @@
   "editor.scrollbar.vertical": "hidden",
   "editor.minimap.maxColumn": 50,
   "editor.cursorBlinking": "expand",
-  "editor.bracketPairColorization.enabled": true,
   "editor.guides.bracketPairs": true,
   "editor.tabSize": 2,
   "window.titleBarStyle": "custom",
