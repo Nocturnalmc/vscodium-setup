@@ -6,7 +6,7 @@
   "editor.fontSize": 13,
   "editor.scrollbar.vertical": "hidden",
   "editor.minimap.maxColumn": 50,
-  "editor.cursorBlinking": "expand",
+  "editor.cursorStyle": "block",
   "editor.guides.bracketPairs": true,
   "editor.tabSize": 2,
   "window.titleBarStyle": "custom",
