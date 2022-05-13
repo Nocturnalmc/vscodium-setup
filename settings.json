@@ -1,14 +1,19 @@
 {
-  "editor.wordWrap": "on",
-  "workbench.iconTheme": "material-icon-theme",
   "workbench.colorTheme": "One Dark Pro Flat",
+  "workbench.iconTheme": "material-icon-theme",
   "workbench.panel.defaultLocation": "right",
+  "workbench.colorCustomizations": {
+    "[One Dark Pro Flat]": {
+      "editorCursor.background": "#000000"
+    }
+  },
   "editor.fontSize": 13,
+  "editor.tabSize": 2,
+  "editor.cursorStyle": "block",
+  "editor.wordWrap": "on",
   "editor.scrollbar.vertical": "hidden",
   "editor.minimap.maxColumn": 50,
-  "editor.cursorStyle": "block",
   "editor.guides.bracketPairs": true,
-  "editor.tabSize": 2,
   "window.titleBarStyle": "custom",
   "window.menuBarVisibility": "compact",
   "terminal.integrated.cursorBlinking": true,
