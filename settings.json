@@ -4,7 +4,7 @@
   "workbench.panel.defaultLocation": "right",
   "workbench.colorCustomizations": {
     "[One Dark Pro Flat]": {
-      "editorCursor.background": "#000000"
+      "editorCursor.background": "#1e2127"
     }
   },
   "editor.fontSize": 13,
