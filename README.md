@@ -1,6 +1,7 @@
 # VSCodium Setup
 
 ## Extensions list
+
 ### Add extension marketplace according to this guide
 
 https://github.com/VSCodium/vscodium/blob/master/DOCS.md#howto-vscode-marketplace
@@ -13,9 +14,14 @@ https://github.com/VSCodium/vscodium/blob/master/DOCS.md#howto-vscode-marketplac
 6. Prettier - Code formatter by Prettier
 7. Tailwind CSS IntelliSense by Tailwind Labs
 
-## VSCode on Windows Specific
+### Set custom keyboard shortcut
+
+Shift+Ctrl+Alt+C : flatpak run com.vscodium.codium --no-sandbox --enable-features=UseOzonePlatform --ozone-platform=wayland
+
+### VSCode on Windows Specific
 
 Add these to settings.json :
+
 ```json
 "terminal.integrated.defaultProfile.windows": "Git Bash",
 "telemetry.telemetryLevel": "off"
