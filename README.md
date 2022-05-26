@@ -16,7 +16,11 @@ https://github.com/VSCodium/vscodium/blob/master/DOCS.md#howto-vscode-marketplac
 
 ### Set custom keyboard shortcut
 
-Shift+Ctrl+Alt+C : flatpak run com.vscodium.codium --no-sandbox --enable-features=UseOzonePlatform --ozone-platform=wayland
+Shift+Ctrl+Alt+C :
+
+```
+flatpak run com.vscodium.codium --no-sandbox --enable-features=UseOzonePlatform --ozone-platform=wayland
+```
 
 ### VSCode on Windows Specific
 
