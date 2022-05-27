@@ -7,9 +7,10 @@
       "editorCursor.background": "#1e2127"
     }
   },
-  "editor.fontSize": 12,
+  "editor.fontSize": 13,
   "editor.tabSize": 2,
   "editor.cursorStyle": "block",
+  "editor.cursorBlinking": "solid",
   "editor.wordWrap": "on",
   "editor.scrollbar.vertical": "hidden",
   "editor.minimap.maxColumn": 50,
@@ -29,6 +30,5 @@
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
   "editor.lightbulb.enabled": false,
-  "tailwindCSS.colorDecorators": false,
-  "editor.cursorBlinking": "solid"
+  "tailwindCSS.colorDecorators": false
 }
