@@ -14,6 +14,14 @@ https://github.com/VSCodium/vscodium/blob/master/DOCS.md#howto-vscode-marketplac
 6. Prettier - Code formatter by Prettier
 7. Tailwind CSS IntelliSense by Tailwind Labs
 
+### Extras
+
+@settings.json
+
+```json
+"window.zoomLevel": // your desired zoom value
+```
+
 ### Set custom keyboard shortcut
 
 Shift+Ctrl+Alt+D :

@@ -15,8 +15,8 @@
   "editor.scrollbar.vertical": "hidden",
   "editor.minimap.maxColumn": 50,
   "editor.guides.bracketPairs": true,
-  "window.titleBarStyle": "custom",
-  "window.menuBarVisibility": "compact",
+  "window.titleBarStyle": "native",
+  "window.menuBarVisibility": "toggle",
   "terminal.integrated.cursorBlinking": true,
   "github.gitAuthentication": false,
   "diffEditor.renderSideBySide": false,
@@ -30,5 +30,6 @@
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
   "editor.lightbulb.enabled": false,
-  "tailwindCSS.colorDecorators": false
+  "tailwindCSS.colorDecorators": false,
+  "editor.fontFamily": "'Source Code Pro', 'monospace', monospace"
 }
