@@ -12,7 +12,7 @@
   "editor.cursorStyle": "block",
   "editor.cursorBlinking": "solid",
   "editor.wordWrap": "on",
-  "editor.scrollbar.vertical": "hidden",
+  "editor.scrollbar.vertical": "visible",
   "editor.minimap.maxColumn": 50,
   "editor.guides.bracketPairs": true,
   "window.titleBarStyle": "native",
