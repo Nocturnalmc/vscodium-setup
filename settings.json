@@ -7,7 +7,7 @@
       "editorCursor.background": "#1e2127"
     }
   },
-  "editor.fontSize": 13,
+  "editor.fontSize": 13.25,
   "editor.tabSize": 2,
   "editor.cursorStyle": "block",
   "editor.cursorBlinking": "solid",
@@ -31,5 +31,8 @@
   "editor.formatOnSave": true,
   "editor.lightbulb.enabled": false,
   "tailwindCSS.colorDecorators": false,
-  "editor.fontFamily": "'Source Code Pro', 'monospace', monospace"
+  "editor.fontFamily": "'VictorMono Nerd Font', 'monospace', monospace",
+  "editor.fontLigatures": true,
+  "editor.fontWeight": "500",
+  "editor.letterSpacing": 0.25
 }
