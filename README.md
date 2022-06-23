@@ -14,12 +14,16 @@ https://github.com/VSCodium/vscodium/blob/master/DOCS.md#howto-vscode-marketplac
 6. Prettier - Code formatter by Prettier
 7. Tailwind CSS IntelliSense by Tailwind Labs
 
+### Download VictorMono Nerd Font from https://www.nerdfonts.com/font-downloads
+
 ### Extras
 
-@settings.json
+Add these to settings.json
 
 ```json
-"window.zoomLevel": // your desired zoom value
+  "editor.fontSize": "your desired font size"
+  "editor.letterSpacing": "your desired letter spacing"
+  "window.zoomLevel": "your desired zoom level"
 ```
 
 ### Set custom keyboard shortcut

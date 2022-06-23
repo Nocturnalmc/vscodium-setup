@@ -7,7 +7,6 @@
       "editorCursor.background": "#1e2127"
     }
   },
-  "editor.fontSize": 13.25,
   "editor.tabSize": 2,
   "editor.cursorStyle": "block",
   "editor.cursorBlinking": "solid",
@@ -33,6 +32,5 @@
   "tailwindCSS.colorDecorators": false,
   "editor.fontFamily": "'VictorMono Nerd Font', 'monospace', monospace",
   "editor.fontLigatures": true,
-  "editor.fontWeight": "500",
-  "editor.letterSpacing": 0.25
+  "editor.fontWeight": "500"
 }
