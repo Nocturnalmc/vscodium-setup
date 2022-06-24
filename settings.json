@@ -30,7 +30,6 @@
   "editor.formatOnSave": true,
   "editor.lightbulb.enabled": false,
   "tailwindCSS.colorDecorators": false,
-  "editor.fontFamily": "'VictorMono Nerd Font', 'monospace', monospace",
-  "editor.fontLigatures": true,
-  "editor.fontWeight": "500"
+  "editor.fontFamily": "'JetBrainsMono Nerd Font', 'monospace', monospace",
+  "editor.fontLigatures": true
 }
