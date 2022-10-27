@@ -8,14 +8,11 @@ https://github.com/VSCodium/vscodium/blob/master/DOCS.md#how-to-use-the-vs-code-
 
 1. Auto Rename Tag by Jun Han
 2. DotENV by mikestead
-3. Expo Tools by Cedric van Putten
-4. Live Server by Ritwick Dey
-5. Material Icon Theme by Philipp Kief
-6. MongoDB for VS Code by MongoDB
-7. NativeBase VS Code Extension by NativeBase
-8. One Dark Pro by binaryify
-9. Prettier - Code formatter by Prettier
-10. Tailwind CSS IntelliSense by Tailwind Labs
+3. Live Server by Ritwick Dey
+4. Material Icon Theme by Philipp Kief
+5. One Dark Pro by binaryify
+6. Prettier - Code formatter by Prettier
+7. Tailwind CSS IntelliSense by Tailwind Labs
 
 ### Download JetBrainsMono Nerd Font from https://www.nerdfonts.com/font-downloads
 
