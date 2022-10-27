@@ -30,14 +30,5 @@
   {
     "key": "ctrl+shift+w",
     "command": "-workbench.action.closeWindow"
-  },
-  {
-    "key": "ctrl+shift+d",
-    "command": "mongoDBConnectionExplorer.focus"
-  },
-  {
-    "key": "ctrl+shift+d",
-    "command": "-workbench.view.debug",
-    "when": "viewContainer.workbench.view.debug.enabled"
   }
 ]
