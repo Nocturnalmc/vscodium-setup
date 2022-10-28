@@ -21,8 +21,8 @@ https://github.com/VSCodium/vscodium/blob/master/DOCS.md#how-to-use-the-vs-code-
 Add these to settings.json
 
 ```json
-  "editor.fontSize": "your desired font size"
-  "window.zoomLevel": "your desired zoom level"
+  "editor.fontSize": "number your desired font size",
+  "window.zoomLevel": "number your desired zoom level"
 ```
 
 ### Set custom keyboard shortcut
