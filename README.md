@@ -4,7 +4,7 @@
 
 ### Add extension marketplace according to this guide
 
-https://github.com/VSCodium/vscodium/blob/master/DOCS.md#howto-switch-marketplace
+https://github.com/VSCodium/vscodium/blob/master/DOCS.md#how-to-use-a-different-extension-gallery
 
 1. Auto Rename Tag by Jun Han
 2. DotENV by mikestead
