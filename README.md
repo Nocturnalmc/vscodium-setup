@@ -6,13 +6,14 @@
 
 https://github.com/VSCodium/vscodium/blob/master/DOCS.md#how-to-use-a-different-extension-gallery
 
-1. Auto Rename Tag by Jun Han
-2. DotENV by mikestead
-3. Live Server by Ritwick Dey
-4. Material Icon Theme by Philipp Kief
-5. One Dark Pro by binaryify
-6. Prettier - Code formatter by Prettier
-7. Tailwind CSS IntelliSense by Tailwind Labs
+1. Atom One Light Theme by Mahmoud Ali
+2. Auto Rename Tag by Jun Han
+3. DotENV by mikestead
+4. Git Blame by Wade Anderson
+5. Material Icon Theme by Philipp Kief
+6. One Dark Pro by binaryify
+7. Prettier - Code formatter by Prettier
+8. Tailwind CSS IntelliSense by Tailwind Labs
 
 ### Download JetBrainsMono Nerd Font from https://www.nerdfonts.com/font-downloads
 
@@ -31,6 +32,12 @@ Shift+Ctrl+Alt+D :
 
 ```
 codium --enable-features=UseOzonePlatform --ozone-platform=wayland
+```
+
+or
+
+```
+flatpak run com.vscodium.codium --enable-features=UseOzonePlatform --ozone-platform=wayland
 ```
 
 ### VSCode on Windows Specific

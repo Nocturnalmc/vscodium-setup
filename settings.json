@@ -19,7 +19,6 @@
   "terminal.integrated.cursorBlinking": true,
   "github.gitAuthentication": false,
   "diffEditor.renderSideBySide": false,
-  "liveServer.settings.donotShowInfoMsg": true,
   "emmet.includeLanguages": {
     "javascript": "javascriptreact"
   },
