@@ -21,7 +21,7 @@
   "editor.scrollbar.vertical": "visible",
   "terminal.integrated.cursorBlinking": true,
   "terminal.integrated.env.linux": {},
-  "console-ninja.featureSet": "Community",
+  "update.mode": "none",
   "github.gitAuthentication": false,
   "tailwindCSS.colorDecorators": false,
   "editor.defaultFormatter": "esbenp.prettier-vscode",

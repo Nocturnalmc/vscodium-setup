@@ -21,14 +21,14 @@ https://github.com/VSCodium/vscodium/blob/master/DOCS.md#how-to-use-a-different-
 
 ### Extras
 
-Add these to settings.json
+Add these at end of settings.json
 
 ```json
   "editor.fontSize": "number your desired font size",
   "window.zoomLevel": "number your desired zoom level"
 ```
 
-### Set custom keyboard shortcut
+### Set custom keyboard shortcut (currently not working)
 
 Shift+Ctrl+Alt+D :
 
