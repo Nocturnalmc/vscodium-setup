@@ -9,13 +9,12 @@ https://github.com/VSCodium/vscodium/blob/master/DOCS.md#how-to-use-a-different-
 1. Atom One Light Theme by Mahmoud Ali
 2. Auto Rename Tag by Jun Han
 3. Better Comments by Aaron Bond
-4. Console Ninja by Wallaby.js
-5. DotENV by mikestead
-6. Git Blame by Wade Anderson
-7. Material Icon Theme by Philipp Kief
-8. One Dark Pro by binaryify
-9. Prettier - Code formatter by Prettier
-10. Tailwind CSS IntelliSense by Tailwind Labs
+4. DotENV by mikestead
+5. Git Blame by Wade Anderson
+6. Material Icon Theme by Philipp Kief
+7. One Dark Pro by binaryify
+8. Prettier - Code formatter by Prettier
+9. Tailwind CSS IntelliSense by Tailwind Labs
 
 ### Download JetBrainsMono Nerd Font from https://www.nerdfonts.com/font-downloads
 
