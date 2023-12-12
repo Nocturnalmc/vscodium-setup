@@ -30,5 +30,13 @@
   {
     "key": "ctrl+shift+w",
     "command": "-workbench.action.closeWindow"
+  },
+  {
+    "key": "ctrl+shift+alt+e",
+    "command": "workbench.action.minimizeOtherEditors"
+  },
+  {
+    "key": "ctrl+shift+alt+z",
+    "command": "workbench.action.evenEditorWidths"
   }
 ]
