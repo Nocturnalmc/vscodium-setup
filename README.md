@@ -4,7 +4,9 @@
 
 ### Add extension marketplace according to this guide
 
-https://github.com/VSCodium/vscodium/blob/master/DOCS.md#how-to-use-a-different-extension-gallery
+https://github.com/VSCodium/vscodium/blob/master/docs/index.md#how-to-use-a-different-extension-gallery
+
+Create product.json inside "~/.var/app/com.vscodium.codium/config/VSCodium" for VSCodium Flatpak
 
 1. Atom One Light Theme by Mahmoud Ali
 2. Auto Rename Tag by Jun Han
