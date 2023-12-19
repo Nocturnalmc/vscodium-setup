@@ -38,5 +38,13 @@
   {
     "key": "ctrl+shift+alt+z",
     "command": "workbench.action.evenEditorWidths"
+  },
+  {
+    "key": "ctrl+shift+alt+f",
+    "command": "explorer.newFolder"
+  },
+  {
+    "key": "ctrl+shift+alt+n",
+    "command": "explorer.newFile"
   }
 ]
