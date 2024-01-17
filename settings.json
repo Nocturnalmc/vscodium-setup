@@ -5,6 +5,7 @@
   "editor.wordWrap": "on",
   "editor.guides.bracketPairs": true,
   "editor.lightbulb.enabled": false,
+  "editor.scrollbar.vertical": "visible",
   "editor.cursorBlinking": "solid",
   "editor.fontLigatures": true,
   "editor.minimap.maxColumn": 50,
@@ -15,20 +16,30 @@
     }
   },
   "workbench.colorTheme": "One Dark Pro Flat",
-  "workbench.iconTheme": "material-icon-theme",
+  "workbench.iconTheme": "eq-material-theme-icons-palenight",
   "window.titleBarStyle": "custom",
-  "editor.scrollbar.vertical": "visible",
-  "terminal.integrated.cursorBlinking": true,
-  "terminal.integrated.env.linux": {},
   "update.mode": "none",
   "github.gitAuthentication": false,
   "tailwindCSS.colorDecorators": false,
+  "todo-tree.general.tags": ["HACK", "FIXME", "TODO", "XXX", "[ ]", "[x]"],
+  "todo-tree.highlights.enabled": false,
+  "todo-tree.tree.expanded": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
   "emmet.includeLanguages": {
-    "javascript": "javascriptreact"
+    "javascript": "javascriptreact",
+    "typescript": "typescriptreact"
   },
   "prettier.jsxSingleQuote": true,
-  "prettier.singleQuote": true
+  "prettier.singleQuote": true,
+  "[dotenv]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
+  },
+  "[ignore]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
+  },
+  "[shellscript]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
+  }
 }

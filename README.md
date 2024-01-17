@@ -13,10 +13,13 @@ Create product.json inside "~/.var/app/com.vscodium.codium/config/VSCodium" for 
 3. Better Comments by Aaron Bond
 4. DotENV by mikestead
 5. Git Blame by Wade Anderson
-6. Material Icon Theme by Philipp Kief
+6. Material Theme Icons by Equinusocio
 7. One Dark Pro by binaryify
 8. Prettier - Code formatter by Prettier
-9. Tailwind CSS IntelliSense by Tailwind Labs
+9. shell-format by foxundermoon
+10. Tailwind CSS IntelliSense by Tailwind Labs
+11. Thunder Client by Thunder Client
+12. Todo Tree by Gruntfuggly
 
 ### Download JetBrainsMono Nerd Font from https://www.nerdfonts.com/font-downloads
 
@@ -29,7 +32,7 @@ Add these at end of settings.json
   "window.zoomLevel": "number your desired zoom level"
 ```
 
-### Set custom keyboard shortcut (currently not working)
+### Set custom keyboard shortcut (not needed anymore)
 
 Shift+Ctrl+Alt+D :
 
