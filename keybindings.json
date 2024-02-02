@@ -50,5 +50,9 @@
   {
     "key": "ctrl+alt+t",
     "command": "workbench.view.extension.todo-tree-container"
+  },
+  {
+    "key": "ctrl+shift+u",
+    "command": "thunder-client.new-request"
   }
 ]
