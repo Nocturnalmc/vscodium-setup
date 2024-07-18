@@ -48,11 +48,13 @@
     "command": "explorer.newFile"
   },
   {
-    "key": "ctrl+alt+t",
-    "command": "workbench.view.extension.todo-tree-container"
+    "key": "ctrl+alt+0",
+    "command": "workbench.action.toggleFullScreen",
+    "when": "!isIOS"
   },
   {
-    "key": "ctrl+shift+u",
-    "command": "thunder-client.new-request"
+    "key": "f11",
+    "command": "-workbench.action.toggleFullScreen",
+    "when": "!isIOS"
   }
 ]

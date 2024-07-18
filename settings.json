@@ -4,9 +4,9 @@
   "editor.cursorStyle": "block",
   "editor.wordWrap": "on",
   "editor.guides.bracketPairs": true,
-  "editor.lightbulb.enabled": false,
+  "editor.lightbulb.enabled": "off",
   "editor.scrollbar.vertical": "visible",
-  "editor.cursorBlinking": "solid",
+  "editor.cursorBlinking": "expand",
   "editor.fontLigatures": true,
   "editor.minimap.maxColumn": 50,
   "workbench.panel.defaultLocation": "right",
@@ -17,16 +17,14 @@
   },
   "workbench.colorTheme": "One Dark Pro Flat",
   "workbench.iconTheme": "eq-material-theme-icons-palenight",
-  "window.titleBarStyle": "custom",
+  "window.titleBarStyle": "native",
   "update.mode": "none",
   "github.gitAuthentication": false,
   "tailwindCSS.colorDecorators": false,
-  "todo-tree.general.tags": ["HACK", "FIXME", "TODO", "XXX", "[ ]", "[x]"],
-  "todo-tree.highlights.enabled": false,
-  "todo-tree.tree.expanded": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
+  "workbench.editor.labelFormat": "short",
   "emmet.includeLanguages": {
     "javascript": "javascriptreact",
     "typescript": "typescriptreact"
@@ -41,5 +39,7 @@
   },
   "[shellscript]": {
     "editor.defaultFormatter": "foxundermoon.shell-format"
-  }
+  },
+  "editor.fontSize": 14.5,
+  "window.zoomLevel": -1.2
 }

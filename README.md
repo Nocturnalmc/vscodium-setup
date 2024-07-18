@@ -13,13 +13,13 @@ Create product.json inside "~/.var/app/com.vscodium.codium/config/VSCodium" for 
 3. Better Comments by Aaron Bond
 4. DotENV by mikestead
 5. Git Blame by Wade Anderson
-6. Material Theme Icons by Equinusocio
-7. One Dark Pro by binaryify
-8. Prettier - Code formatter by Prettier
-9. shell-format by foxundermoon
-10. Tailwind CSS IntelliSense by Tailwind Labs
-11. Thunder Client by Thunder Client
-12. Todo Tree by Gruntfuggly
+6. Material Icon Theme by Philipp Kief
+7. Material Theme by Equinusocio
+8. Material Theme Icons by Equinusocio
+9. One Dark Pro by binaryify
+10. Prettier - Code formatter by Prettier
+11. shell-format by foxundermoon
+12. Tailwind CSS IntelliSense by Tailwind Labs
 
 ### Download JetBrainsMono Nerd Font from https://www.nerdfonts.com/font-downloads
 
