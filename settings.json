@@ -41,5 +41,10 @@
     "editor.defaultFormatter": "foxundermoon.shell-format"
   },
   "editor.fontSize": 14.5,
-  "window.zoomLevel": -1.2
+  "window.zoomLevel": -1.2,
+  "dateTime.showAMPM": true,
+  "dateTime.showDayOfMonth": true,
+  "dateTime.showDayOfWeek": true,
+  "dateTime.showMonth": true,
+  "dateTime.use24HourClock": false
 }

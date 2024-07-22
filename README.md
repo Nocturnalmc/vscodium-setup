@@ -11,15 +11,16 @@ Create product.json inside "~/.var/app/com.vscodium.codium/config/VSCodium" for 
 1. Atom One Light Theme by Mahmoud Ali
 2. Auto Rename Tag by Jun Han
 3. Better Comments by Aaron Bond
-4. DotENV by mikestead
-5. Git Blame by Wade Anderson
-6. Material Icon Theme by Philipp Kief
-7. Material Theme by Equinusocio
-8. Material Theme Icons by Equinusocio
-9. One Dark Pro by binaryify
-10. Prettier - Code formatter by Prettier
-11. shell-format by foxundermoon
-12. Tailwind CSS IntelliSense by Tailwind Labs
+4. Date & Time by rid9
+5. DotENV by mikestead
+6. GitLens --- Git supercharged by GitKraken
+7. Material Icon Theme by Philipp Kief
+8. Material Theme by Equinusocio
+9. Material Theme Icons by Equinusocio
+10. One Dark Pro by binaryify
+11. Prettier - Code formatter by Prettier
+12. shell-format by foxundermoon
+13. Tailwind CSS IntelliSense by Tailwind Labs
 
 ### Download JetBrainsMono Nerd Font from https://www.nerdfonts.com/font-downloads
 
