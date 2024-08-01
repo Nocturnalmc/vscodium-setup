@@ -1,8 +1,8 @@
 {
+  "editor.fontSize": 14.5,
   "editor.fontFamily": "'JetBrainsMono Nerd Font', 'monospace', monospace",
   "editor.tabSize": 2,
   "editor.cursorStyle": "block",
-  "editor.wordWrap": "on",
   "editor.guides.bracketPairs": true,
   "editor.lightbulb.enabled": "off",
   "editor.scrollbar.vertical": "visible",
@@ -18,19 +18,15 @@
   "workbench.colorTheme": "One Dark Pro Flat",
   "workbench.iconTheme": "eq-material-theme-icons-palenight",
   "window.titleBarStyle": "native",
+  "window.zoomLevel": -1.2,
   "update.mode": "none",
+  "dateTime.showAMPM": true,
+  "dateTime.showDayOfMonth": true,
+  "dateTime.showDayOfWeek": true,
+  "dateTime.showMonth": true,
+  "dateTime.use24HourClock": false,
   "github.gitAuthentication": false,
   "tailwindCSS.colorDecorators": false,
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "editor.formatOnPaste": true,
-  "editor.formatOnSave": true,
-  "workbench.editor.labelFormat": "short",
-  "emmet.includeLanguages": {
-    "javascript": "javascriptreact",
-    "typescript": "typescriptreact"
-  },
-  "prettier.jsxSingleQuote": true,
-  "prettier.singleQuote": true,
   "[dotenv]": {
     "editor.defaultFormatter": "foxundermoon.shell-format"
   },
@@ -40,11 +36,15 @@
   "[shellscript]": {
     "editor.defaultFormatter": "foxundermoon.shell-format"
   },
-  "editor.fontSize": 14.5,
-  "window.zoomLevel": -1.2,
-  "dateTime.showAMPM": true,
-  "dateTime.showDayOfMonth": true,
-  "dateTime.showDayOfWeek": true,
-  "dateTime.showMonth": true,
-  "dateTime.use24HourClock": false
+  "editor.wordWrap": "on",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "workbench.editor.labelFormat": "short",
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "typescript": "typescriptreact"
+  },
+  "prettier.jsxSingleQuote": true,
+  "prettier.singleQuote": true
 }
